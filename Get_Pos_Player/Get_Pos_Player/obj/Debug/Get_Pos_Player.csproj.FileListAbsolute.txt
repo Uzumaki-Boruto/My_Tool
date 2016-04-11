@@ -1,0 +1,11 @@
+C:\Users\Uzumaki Boruto\Documents\Visual Studio 2012\Projects\get postion\UB_get_postion\bin\Debug\UB_get_postion.exe.config
+C:\Users\Uzumaki Boruto\Documents\Visual Studio 2012\Projects\get postion\UB_get_postion\bin\Debug\UB_get_postion.exe
+C:\Users\Uzumaki Boruto\Documents\Visual Studio 2012\Projects\get postion\UB_get_postion\bin\Debug\UB_get_postion.pdb
+C:\Users\Uzumaki Boruto\Documents\Visual Studio 2012\Projects\get postion\UB_get_postion\bin\Debug\EloBuddy.dll
+C:\Users\Uzumaki Boruto\Documents\Visual Studio 2012\Projects\get postion\UB_get_postion\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Uzumaki Boruto\Documents\Visual Studio 2012\Projects\get postion\UB_get_postion\bin\Debug\SharpDX.dll
+C:\Users\Uzumaki Boruto\Documents\Visual Studio 2012\Projects\get postion\UB_get_postion\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Uzumaki Boruto\Documents\Visual Studio 2012\Projects\get postion\UB_get_postion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Uzumaki Boruto\Documents\Visual Studio 2012\Projects\get postion\UB_get_postion\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\Uzumaki Boruto\Documents\Visual Studio 2012\Projects\get postion\UB_get_postion\obj\Debug\UB_get_postion.exe
+C:\Users\Uzumaki Boruto\Documents\Visual Studio 2012\Projects\get postion\UB_get_postion\obj\Debug\UB_get_postion.pdb
