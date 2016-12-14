@@ -56,7 +56,7 @@ namespace Database_Collection
         }
         private static void Game_OnUpdate(EventArgs args)
         {
-            if (LastWrite + 60 < Game.Time)
+            if (LastWrite + 15 < Game.Time)
             {
                 Write_Database();
                 Read_Database();
@@ -93,8 +93,8 @@ namespace Database_Collection
                 {
                     Directory.CreateDirectory(MissilePath);
                 }
-                var ordered = MissileData.OrderBy(x => new { x.SpellCaster, x.Slot, });
-                string json = JsonConvert.SerializeObject(ordered, Formatting.Indented, new StringEnumConverter() { AllowIntegerValues = true });
+                //var ordered = MissileData.OrderBy(x => new { x.SpellCaster, x.Slot, });
+                string json = JsonConvert.SerializeObject(MissileData.OrderBy(x => x.SpellCaster), Formatting.Indented, new StringEnumConverter() { AllowIntegerValues = true });
                 File.WriteAllText(Path.Combine(MissilePath, FileName), json);
                 Writen = true;
                 Seen = false;
